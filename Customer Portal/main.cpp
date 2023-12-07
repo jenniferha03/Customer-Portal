@@ -966,7 +966,7 @@ void customerPortal(vector<customer>& CustomerData, string& filename,
 
                     case '2':
                     {
-                        cout << "\tCustomer Order Infomation" << endl
+                        cout << "\tCustomer Order Information" << endl
                         	 << getCustomerOrderInfo(CustomerData, transactions, currentCustomer.getID(), orders);
                         break;
                     }
