@@ -32,7 +32,7 @@
  *	5. Function: GetCustomerData, displayMenu, getUserChoice, IDLinearSearch,
  *	Is_Existed_Customers_in_Transaction, NameLinearSearch, generateNewID,
  *	encrypt, isPasswordValid Input_NewCustomer, Add_NewCustomertoFile,
- *	getCustomerOrderInfo, generateOrderID, addNewOrde, subMenuforCase5,
+ *	getCustomerOrderInfo, generateOrderID, addNewOrder, subMenuforCase5,
  *	readData, generateSalesReport, changePassword, WriteCustomerDataToFile,
  *	customerPortal, main
 ---------------------------------------------------------------------------------------------------------------------------------*/
